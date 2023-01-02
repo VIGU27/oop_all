@@ -1,0 +1,5 @@
+BRAND -'toyota', MODEL -'fotuner'
+BRAND -'hyundai', MODEL -'i20'
+BRAND -'maruti', MODEL -'kizashi'
+BRAND -'volkswagon', MODEL -'polo'
+BRAND -'skoda', MODEL -'octivia'
